@@ -35,7 +35,7 @@ I’m continuously improving my programming and computer science skills through 
 |--------|--------|
 | 🌍 Country | Bangladesh |
 | 🎯 Level | 16 |
-| 🧠 Learning Languages |	Python, C++, HTML, CSS, JavaScript |
+| 🧠 Learning Languages |	Python, C/C++, Go, SQL, HTML, CSS, Java, C#, JavaScript |
 | 🏅 Achievements | Completed several coding modules, quizzes, and real-world coding practices |
 
 
@@ -73,4 +73,5 @@ The [MIT](https://choosealicense.com/licenses/mit/) License (MIT)
 ## 💖 Thank You for Visiting!
 
 > “Good practice is about solving challenges smartly, not just quickly”  
+
 > — *Ariful Islam*
